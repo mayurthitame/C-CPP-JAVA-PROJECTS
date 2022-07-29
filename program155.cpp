@@ -1,4 +1,4 @@
-// PPA chi PUNYAYI (15 WASOOOOOOL)
+
 
 #include<iostream>
 using namespace std;
