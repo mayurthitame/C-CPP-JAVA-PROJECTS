@@ -12,7 +12,7 @@
 int Addition(int iValue1, int iValue2)
 {
     int iAns = 0;
-    int g=0;
+  
     if(iValue1 < 0)
     {
         iValue1 = -iValue1;
